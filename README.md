@@ -1,14 +1,14 @@
 ### Hi there 👋
 
 ## About me
-📫  I'm wesley, a Second Year MS student of ZheJiang University. 
+📫  I'm **wesley**, a Second Year MS student of ZheJiang University. 
 
-🌱 I’m currently interested in Deep Learning System, Large Language Model Inference.
+🌱 I’m currently interested in **Deep Learning System**, **Large Language Model Inference**.
 
 👯 I’m looking to spare my time on open source project!!! 
 
 💌 How to reach me: 
-please feel free to seed me email via: [**here**](<zhewei.li@zju.edu.cn>)
+please feel free to seed me email via: [here](<mailto:zhewei.li@zju.edu.cn>)
 
 ⚡ Fun fact:
 Besides coding, i'm still a football fan :)
