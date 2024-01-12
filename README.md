@@ -8,7 +8,7 @@
 👯 I’m looking to spare my time on open source project!!! 
 
 💌 How to reach me: 
-please feel free to seed me email via: [**here**](zhewei.li@zju.edu.cn)
+please feel free to seed me email via: [**here**](<zhewei.li@zju.edu.cn>)
 
 ⚡ Fun fact:
 Besides coding, i'm still a football fan :)
