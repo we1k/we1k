@@ -11,7 +11,7 @@
 please feel free to seed me email via: [here](<mailto:zhewei.li@zju.edu.cn>)
 
 ⚡ Fun fact:
-Besides coding, i'm still a football fan :)
+Besides coding, i'm also a football fan :)
 <!--
 **we1k/we1k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
