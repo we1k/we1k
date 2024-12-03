@@ -3,7 +3,7 @@
 ## About me
 📫  I'm **Zhewei li**, a final Year MS student of Zhejiang University. 
 
-🌱 I’m currently interested in **Deep Learning System**, **Large Language Model Inference**.
+🌱 I’m currently interested in **Deep Learning System**, **Large Language Model Post Training**.
 
 👯 I’m looking to spare my time on an open source project!!! 
 
