@@ -1,17 +1,17 @@
 ### Hi there 👋
 
 ## About me
-📫  I'm **wesley**, a Second Year MS student of ZheJiang University. 
+📫  I'm **Zhewei li**, a final Year MS student of Zhejiang University. 
 
 🌱 I’m currently interested in **Deep Learning System**, **Large Language Model Inference**.
 
-👯 I’m looking to spare my time on open source project!!! 
+👯 I’m looking to spare my time on an open source project!!! 
 
 💌 How to reach me: 
-please feel free to seed me email via: [here](<mailto:zhewei.li@zju.edu.cn>)
+please feel free to seed me an email via: [here](<mailto:zhewei.li@zju.edu.cn>)
 
 ⚡ Fun fact:
-Besides coding, i'm also a football fan :)
+Besides coding, I'm also a football fan :)
 <!--
 **we1k/we1k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
